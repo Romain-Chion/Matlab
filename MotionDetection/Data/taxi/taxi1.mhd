@@ -1,0 +1,7 @@
+NDims = 2
+DimSize = 256 190
+ElementSize = 1 1
+ElementSpacing = 1 1
+ElementType = MET_SHORT
+ElementByteOrderMSB = False
+ElementDataFile = taxi1.raw
